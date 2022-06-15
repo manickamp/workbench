@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>001</KEY>
+<LANG>E</LANG>
+<ENTRY>Hello World</ENTRY>
+<LENGTH>21</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>E</LANG>
+<ENTRY>Program YTESTPRG</ENTRY>
+<LENGTH>16</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>
