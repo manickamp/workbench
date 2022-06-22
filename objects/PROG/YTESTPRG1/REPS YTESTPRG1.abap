@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ytestprg1.
 WRITE: / 'Hello world'.
+WRITE: 'Test for transport layer'.
